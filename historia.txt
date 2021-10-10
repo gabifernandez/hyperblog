@@ -1,2 +1,2 @@
 Aprendiendo a usar control de versiones con Git
-Primer cambio
+Subiendo codigo a Github
